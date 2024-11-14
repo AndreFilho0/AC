@@ -15,8 +15,11 @@ Aluno : André De Oliveira Machado Filho , IGOR PIMENTA ARAÚJO  , JAMILLY VITOR
 
 ### Throughput (Vazão):
 
-- Medir a velocidade de download ou upload da rede, usando uma ferramenta como o Speedtest. Registre os resultados em Mbps (Megabits por segundo).
-- Pode ser usado o site: https://fast.com/pt/
+- André De Oliveira Machado Filho: Download Mbps
+  38.85
+Upload Mbps
+36.88
+
 
 ### Latência:
 
