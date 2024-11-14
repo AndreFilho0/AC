@@ -16,25 +16,26 @@ Aluno : André De Oliveira Machado Filho , IGOR PIMENTA ARAÚJO  , JAMILLY VITOR
 ### Throughput (Vazão):
 
 - André De Oliveira Machado Filho: Download Mbps 38.85 Upload Mbps 36.88
-- 
+- JAMILLY VITORYA DA SILVA BARBOSA : Download Mbps 24.99 Upload Mbps 37.41
 
 ### Latência:
 
-Abrir o prompt de comando ou terminal e usar o comando abaixo para verificar a latência.
-``` bash
-ping www.google.com
-```` 
-Registre o tempo médio de resposta.
-
+- André De Oliveira Machado Filho : ping melivra.com 135.267ms
+- JAMILLY VITORYA DA SILVA BARBOSA : ping google.com 50.720 ms
 ### Tempo de Execução de um Programa: 🕒
+- André De Oliveira Machado Filho:
+real	0m0,398s
+user	0m0,168s
+sys	0m0,162s
 
- - Escolher um programa simples para ser executado e utilizar o comando time (no Linux) ou cronômetro manual para medir o tempo de abertura.
- - Anotar o tempo necessário para o programa executar completamente.
+- JAMILLY VITORYA DA SILVA BARBOSA:
+real	0m0,026s
+user	0m0,007s
+sys	0m0,017s
 
 ### Utilização da CPU:
 
- - Abrir o Gerenciador de Tarefas (Windows) ou o Monitor do Sistema (Linux) e observarem o uso da CPU em tempo real.
- - Registrar a porcentagem de uso médio durante um minuto.
+ 
 
 ### Memória (Uso e Latência):
 
