@@ -15,11 +15,8 @@ Aluno : André De Oliveira Machado Filho , IGOR PIMENTA ARAÚJO  , JAMILLY VITOR
 
 ### Throughput (Vazão):
 
-- André De Oliveira Machado Filho: Download Mbps
-  38.85
-Upload Mbps
-36.88
-
+- André De Oliveira Machado Filho: Download Mbps 38.85 Upload Mbps 36.88
+- 
 
 ### Latência:
 
